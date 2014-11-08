@@ -1,0 +1,40 @@
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\bin\Debug\Design.exe
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\bin\Debug\Design.pdb
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\Design.exe
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\Design.pdb
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.WeatherListItem.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.exe
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.pdb
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Design.exe
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Design.pdb
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\WindowsFormsApplication1.WeatherListItem.resources
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Design.exe.manifest
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\bin\Debug\Design.application
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.exe.manifest
+C:\Users\FM2 Processor\Desktop\Design\Design\Design\Design\obj\x86\Debug\Design.application
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.exe
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.pdb
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Design.exe.manifest
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Design.application
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Design.exe
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Design.pdb
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\WindowsFormsApplication1.WeatherListItem.resources
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.csproj.GenerateResource.Cache
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.exe.manifest
+C:\Users\Manita\Desktop\vremea in lucru\Vremea_1.1\Design\Design\obj\x86\Debug\Design.application
